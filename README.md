@@ -5,7 +5,9 @@ TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM NẾU BẠN SỬ DỤNG MỤC ĐÍCH VI 
 
 ## HOW TO USE
 
-Thêm token account của bạn tại main.py line 6, lưu ý là token account chứ không phải bot !
+Thêm các giá trị cần thiết tại main.py
+Khởi chạy tại cmd ```pip install -r requirements.txt```
+Lệnh huỷ diệt: .nukevip
 
 ## CREDIT 
 
