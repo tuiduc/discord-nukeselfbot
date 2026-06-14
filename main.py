@@ -225,7 +225,7 @@ async def help(ctx):
     embed.add_field(name="ban", value="Bans all members", inline=False)
     embed.add_field(name="kick", value="Kicks all members", inline=False)
     embed.add_field(name="bypass", value="Rename all channels and spams in them", inline=False)
-    embed.set_footer(text="Trenolix made this.")
+    embed.set_footer(text="By NguyenDuc")
 
     await ctx.send(embed=embed)
 
