@@ -5,8 +5,8 @@ TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM NẾU BẠN SỬ DỤNG MỤC ĐÍCH VI 
 
 ## HOW TO USE
 
-Thêm các giá trị cần thiết tại main.py\n
-Khởi chạy tại cmd ```pip install -r requirements.txt```\n
+Thêm các giá trị cần thiết tại main.py
+Khởi chạy tại cmd ```pip install -r requirements.txt```
 Lệnh huỷ diệt: .nukevip
 
 ## CREDIT 
